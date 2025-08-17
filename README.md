@@ -1,5 +1,3 @@
-# Bio-mimicry-01
-
 # Literature Review: Locust Control and Ecosystem Conservation - Integrated Approaches for Sustainable Management
 
 ## 1 Introduction
