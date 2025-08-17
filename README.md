@@ -1,4 +1,4 @@
-#Locust Control and Ecosystem Conservation - Integrated Approaches for Sustainable Management
+# Locust Control and Ecosystem Conservation - Integrated Approaches for Sustainable Management
 
 ## 1 Introduction
 Locusts (Orthoptera: Acrididae) represent a unique nexus between agricultural pest management and ecosystem conservation. 
