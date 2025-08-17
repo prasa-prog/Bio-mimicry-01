@@ -12,7 +12,8 @@ void setup() {
   pinMode(OUT_PIN, OUTPUT);  // Output pin
 }
 
-// Function: Blink pin 5 with a specific pattern
+// Function: This can be replaced with Tone function,some use cases tone function conlicts with IR library
+// it is ideal if you could use 5kHz for the tone frequency
 void Button3() {
   for (int i = 0; i < 6; i++) {
     digitalWrite(OUT_PIN, HIGH);
@@ -49,3 +50,4 @@ void loop() {
 
 
  
+
