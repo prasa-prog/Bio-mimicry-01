@@ -2,7 +2,7 @@
 #include <IRremote.h>
 
 #define RECV_PIN 11   // <-- change this to the pin where your IR receiver is connected
-#define OUT_PIN  5    // device/LED connected to pin 5
+#define OUT_PIN  5    // buzzer connected to pin 5
 
 IRrecv irrecv(RECV_PIN);
 decode_results results;
@@ -50,4 +50,5 @@ void loop() {
 
 
  
+
 
