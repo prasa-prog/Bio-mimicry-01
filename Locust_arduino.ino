@@ -23,7 +23,7 @@ void Button3() {
   }
   delay(360);
 }
-
+// above pattern developed by testing locust resonse to vibrations in field
 // Function: Turn pin 5 OFF
 void off_3() {
   digitalWrite(OUT_PIN, LOW);
@@ -50,5 +50,6 @@ void loop() {
 
 
  
+
 
 
